@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "The Core Three",
+      "description": "HTML5 ,CSS3 ( TailwindCSS,Bootstrap,Sass,Less) Javascript and Typescript"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "JAVASCRIPT-FRAMEWORKS",
+      "description": "REACT18 (REDUX,MATERIAL-UI )"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Other Key Skills",
+      "description": "WebPerformanceOptimization,API-Integration,Cross-Browser-Compatability,ResponsiveDesign"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "SoftSkills",
+      "description": "TeamPlayer,DetailOriented,Collaboration(Experienced in working with designers, back-end developers, and cross-functional teams)"
+
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Brewed Bliss",
+      "description": "Discover a world of rich flavors and comforting aromas. Our coffee is crafted to bring joy in every sip, whether you're a passionate coffee enthusiast or a casual sipper",
+      "link": "Source Code",
+      "live":"Live Preview"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Dine & Delight",
+      "description": "Welcome to a place where flavor and hospitality meet. Our restaurant offers a unique blend of classic and modern dishes, perfect for any occasion",
+      "link": "Source Code",
+      "live":"Live Preview"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "WeatherWatcher",
+      "description": "Stay informed with accurate and up-to-date weather forecasts at your fingertips.Whether planning your day or preparing for a trip, we’ve got you covered with reliable weather insights",
+      "link": "Source Code",
+      "live":"Live Preview"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",  
+      "company_name": "Organization Name : ENEA",
+      "company_designation": "Role : React JS Developer",
+      "duration":"05/05/2023-10/01/2024",
+      "description":"I Worked on retail E-commerce platform for a Saudi-Arabia based cilent.I was responsible for building and maintaining front end components using react.js.I collaborated closely with the API team to ensure real-time updates for inventory and pricing."
+    },
+    {
+      "id": "2",
+      "company_name": "Organization Name: LIVEASY",
+      "company_designation": "Role: React JS Intern",
+      "duration":"08/05/2024-03/11/2024",
+      "description":"I Worked on a HealthCareWebsite for a U.K based client.My impact was in creating an intuitive user interface that improved user engagement as well as in building resuable optimized components that speed up the overall development process."
+    }
+  ]
+}
