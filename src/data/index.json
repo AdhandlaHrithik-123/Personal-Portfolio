@@ -29,7 +29,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "./img/Coffee-image.png",
       "title": "Brewed Bliss",
       "description": "Discover a world of rich flavors and comforting aromas. Our coffee is crafted to bring joy in every sip, whether you're a passionate coffee enthusiast or a casual sipper",
       "link": "Source Code",
@@ -37,7 +37,7 @@
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/Burger-image.png",
       "title": "Dine & Delight",
       "description": "Welcome to a place where flavor and hospitality meet. Our restaurant offers a unique blend of classic and modern dishes, perfect for any occasion",
       "link": "Source Code",
@@ -45,7 +45,7 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/Weather-image.png",
       "title": "WeatherWatcher",
       "description": "Stay informed with accurate and up-to-date weather forecasts at your fingertips.Whether planning your day or preparing for a trip, we’ve got you covered with reliable weather insights",
       "link": "Source Code",
